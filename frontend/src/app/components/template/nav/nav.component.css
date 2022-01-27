@@ -1,0 +1,19 @@
+/* cor da lateral */
+.sidenav { 
+    background-color: #3f51b5;
+    width: 200px;
+}
+
+/* deixa as letras e icones da cor branca */
+.sidenav a{
+    color: #fff;
+}
+
+.sidenav i{
+    padding-right: 10px;
+}
+
+.content{
+    padding: 16px;
+    background-color: #fff;
+}
